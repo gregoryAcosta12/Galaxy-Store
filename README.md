@@ -121,4 +121,4 @@ Fuentes optimizadas con Google Fonts (Geist, Space Grotesk)
 Lazy loading de componentes
 
 Código dividido por rutas y componentes
->>>>>>> 0ce3365212cb8bc299470b026dd9dbec4cfcc341
+
