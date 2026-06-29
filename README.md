@@ -2,6 +2,14 @@
 GameStoreGalaxy es un sitio web de comercio electrónico especializado en videojuegos y productos gaming, diseñado para ofrecer una experiencia de compra inmersiva con temática espacial. El proyecto demuestra habilidades en desarrollo web moderno, arquitectura de aplicaciones, y diseño de interfaces de usuario.
 <img width="1582" height="862" alt="image" src="https://github.com/user-attachments/assets/99838282-64ed-49f6-b382-766686569c6c" />
 
+Fotos:
+
+<img width="1876" height="902" alt="image" src="https://github.com/user-attachments/assets/e3caffa5-4d00-4969-8d28-317730422736" />
+
+<img width="1867" height="911" alt="image" src="https://github.com/user-attachments/assets/f6545ce9-9ba5-43c8-a846-e5f71bbafc2e" />
+
+<img width="1886" height="935" alt="image" src="https://github.com/user-attachments/assets/6036b1b0-d0dd-48fd-8110-798f647f6317" />
+
 🛠️ Tecnologías Utilizadas:
 ⚛️ Next.js 14 (App Router)
 Framework React con renderizado híbrido (SSR, SSG, ISR)
